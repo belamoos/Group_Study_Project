@@ -1,0 +1,27 @@
+Questions / Answers package
+Hi everyone, in order to collaborate and practise Git at the same time
+I created this project as a test to see if it's gonna work.
+As it is impossible to delete the history
+of commits and in order to keep the history
+clear and more readable I suggest the following:
+
+1- To ask a question it's better to create a file or a class
+and name it with your name followed by the word "question"
+and the ordinal number of your question:
+    Example of a file or class name: "Mohamed_question1" / "Mohamed_question2".
+2- To answer a question it's better to answer inside the file
+or class that contain the question, and write a line before answering.
+   it is also good to write "your name" in the beginning of your answer:
+    Example:
+    ---------------------------------------------------------------------
+    "Harun's answer: ...
+    ...
+    ....
+    ....
+    ...                                     "
+    ----------------------------------------------------------------------
+
+    I think choosing the right names and titles is good
+    for us in the beginning so we can track our contributions
+    and understand the flow of updates. Hope that it works.
+    Good luck everyone!
