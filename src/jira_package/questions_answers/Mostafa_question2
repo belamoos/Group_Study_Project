@@ -1,0 +1,6 @@
+
+Mostafa asks: When we make changes in the feature branch and push it
+to origin-feature and pulling it to the origin develop branch,
+what do we do next? just fetch on intelliJ and update and it is merged
+automatically in our local develop, or we have to merge the remote develop branch
+in the local one manually?
