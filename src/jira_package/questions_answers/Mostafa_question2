@@ -4,3 +4,12 @@ to origin-feature and pulling it to the origin develop branch,
 what do we do next? just fetch on intelliJ and update and it is merged
 automatically in our local develop, or we have to merge the remote develop branch
 in the local one manually?
+------------------------------------------------------------------------
+Mostafa's answer: I'm answering myself Lol. I just tried it,
+and after pulling the feature branch (that I'm naming Mostafa) in origin Develop,
+all what I had to do on intelliJ is to fetch
+and checkout to remote develop and that's it.
+I didn't need to update the local develop, it was already updated.
+Does this mean that fetching include also updating?
+If you have time try it from your side and let me know if the same thing happens.
+---------------------------------------------------------------------------------
